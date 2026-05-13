@@ -1,7 +1,1 @@
-Iris Flower Classification using KNN
 
-A machine learning web application developed to classify Iris flower species using the K-Nearest Neighbors (KNN) algorithm. The project analyzes flower measurements such as sepal length, sepal width, petal length, and petal width to predict the corresponding Iris species with accuracy.
-
-The application is designed with a simple and interactive interface, allowing users to input flower attributes and instantly receive prediction results. The model is trained using the famous Iris dataset and implemented with Python and machine learning libraries for efficient classification performance.
-
-This project demonstrates the practical implementation of supervised learning, data preprocessing, model training, and prediction in a real-world classification problem.
